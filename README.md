@@ -1,10 +1,10 @@
-# Resume and Digital Portfolio
+# React Stopwatch
 
 ![Olakunle's](stopwatch.png?raw=true "Project")
 
 ### <a href="https://react-live-stopwatch.herokuapp.com/">REACT-STOPWATCH</a>
 
-## Resume Starter Pack Description
+## React Stopwatch Description
 
 This project is made using React. . You can clone and customize your own personal project that can be used for applying to jobs or other personal uses.
 
